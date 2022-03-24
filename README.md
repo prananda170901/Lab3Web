@@ -20,3 +20,6 @@ section unordered-list, seperti berikut.
 ## 4. Membuat Description List
 <br>Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list. Seperti Gambar berikut :
 ![p](img/SS4.png)
+
+
+# Langkah-langkah Praktikum Membuat Tabel
