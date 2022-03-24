@@ -5,5 +5,7 @@
 ## Matkul : Pemograman Web
 
 # Langkah-Langkah Praktikum
-<br>1. Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+## 1. Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ![p](img/SS1.png)
+
+## 2. Membuat Ordered List
