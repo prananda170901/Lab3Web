@@ -11,3 +11,8 @@
 ## 2. Membuat Ordered List
 <br>Kemudian tambahkan kode untuk membuat Ordered List seperti gambar berikut.
 ![p](img/SS2.png)
+
+## 3. Membuat Unorderd List
+<br>Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada 
+section unordered-list, seperti berikut.
+![p](img/SS3.png)
