@@ -9,3 +9,5 @@
 ![p](img/SS1.png)
 
 ## 2. Membuat Ordered List
+<br>Kemudian tambahkan kode untuk membuat Ordered List seperti gambar berikut.
+![p](img/SS2.png)
