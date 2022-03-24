@@ -4,7 +4,7 @@
 ## Kelas : TI.20.A1
 ## Matkul : Pemograman Web
 
-# Langkah-Langkah Praktikum
+# Langkah-Langkah Praktikum Membuat list
 ## 1. Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
 ![p](img/SS1.png)
 
@@ -16,3 +16,7 @@
 <br>Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada 
 section unordered-list, seperti berikut.
 ![p](img/SS3.png)
+
+## 4. Membuat Description List
+<br>Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list. Seperti Gambar berikut :
+![p](img/SS4.png)
