@@ -38,3 +38,6 @@ horizontal).
 ![p](img/SS8.png)
 # Langkah-langkah Praktikum Membuat Form
 <br>Buat file baru dengan nama lab3_form.html seperti berikut.
+![p](img/SS9.png)
+<br>Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+![p](img/SS10.png)
