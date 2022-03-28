@@ -23,3 +23,8 @@ section unordered-list, seperti berikut.
 
 
 # Langkah-langkah Praktikum Membuat Tabel
+<br>Buat file baru dengan nama lab3_tabel.html seperti berikut.
+![p](img/SS5.png)
+<br>Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
+![p](img/SS6.png)
+## Mengatur Margin dan Padding
