@@ -28,3 +28,13 @@ section unordered-list, seperti berikut.
 <br>Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
 ![p](img/SS6.png)
 ## Mengatur Margin dan Padding
+<br>Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan 
+cellspacing pada tag table.
+![p](img/SS7.png)
+## Menggabungkan Sel Data
+<br> Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk 
+menggabungkan baris (secara vertikal) dan colspan untuk menggabungkan kolom (secara 
+horizontal).
+![p](img/SS8.png)
+# Langkah-langkah Praktikum Membuat Form
+<br>Buat file baru dengan nama lab3_form.html seperti berikut.
