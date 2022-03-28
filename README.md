@@ -41,3 +41,8 @@ horizontal).
 ![p](img/SS9.png)
 <br>Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
 ![p](img/SS10.png)
+## Menabahkan Style pada Form
+<br>Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut :
+![p](img/SS11.png)
+## Pertanyaan dan Tugas
+<br>1. Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
